@@ -2,9 +2,9 @@ $(function() {
     // comming count down clock
     $('#clock').countDown({  
         targetDate: {
-            'day'   : 3,
+            'day'   : 21,
             'month' : 11,
-            'year'  : 2017,
+            'year'  : 2016,
             'hour'  : 0,
             'min'   : 0,
             'sec'   : 0
